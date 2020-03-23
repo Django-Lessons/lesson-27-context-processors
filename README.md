@@ -1,5 +1,6 @@
 # Lesson 27 - Django's Context Processors
 
+![Lesson 27](./screenshots/lesson-27.png)
 
 This project was created with following command::
 
